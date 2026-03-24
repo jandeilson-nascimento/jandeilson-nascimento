@@ -94,8 +94,8 @@ I’ve worked on systems involving:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jandeilson-nascimento&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jandeilson-nascimento&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jandeilson-nascimento&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jandeilson-nascimento&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
