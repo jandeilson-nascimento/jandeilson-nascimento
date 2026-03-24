@@ -1,38 +1,50 @@
 <h1 align="center">Jandeilson Nascimento</h1>
-<h3 align="center">Backend Engineer • Java • Spring Boot • .NET • Cloud • Distributed Systems</h3>
+<h3 align="center">Software Engineer · Distributed Systems • Java • Go (Golang)</h3>
 
 <p align="center">
-  I build robust backend systems, APIs, integrations and production-ready software.
-  <br/>
+  I build robust backend systems, APIs, integrations and production-ready software.  
   Focused on clean architecture, performance, scalability and real-world delivery.
 </p>
 
 <p align="center">
-  <a href="https://github.com/SEU_USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/SEU_USERNAME?label=Followers&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/SEU_USERNAME">
+  <a href="https://github.com/jandeilson-nascimento">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/nascimento-jandeilson">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:SEU_EMAIL">
+  <a href="mailto:jb2nascimento@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About me
+## ⚙️ What I build
 
-- Backend-focused software engineer with strong experience building scalable APIs and distributed systems
-- Main stack: **Java / Spring Boot / .NET**
-- Also comfortable with **Angular, React, Docker, CI/CD, SQL, MongoDB, Redis, Kafka, AWS, Azure**
-- I enjoy solving performance bottlenecks, integration challenges and messy real-world engineering problems
-- Currently sharpening my profile for stronger international opportunities and building portfolio projects with more product mindset
+I build and operate **distributed backend systems** that handle real-world scale —
+high concurrency, asynchronous processing, and complex integrations.
+
+My work focuses on:
+- Designing systems that **scale without unnecessary complexity**
+- Building APIs and services that **survive production load**
+- Improving performance, reliability and throughput under real traffic
+
+I’ve worked on systems involving:
+- Large-scale datasets (tens of millions of records)
+- Event-driven architectures (Kafka, messaging systems)
+- High-throughput APIs and financial workflows
 
 ---
+
+## 📈 Production scale, in numbers
+
+| What | Result |
+|------|--------|
+| Optimized vehicle search over 60M+ records | Reduced latency from ~20s → ~3s |
+| Built distributed backend services for financial workflows | Supported millions of daily transactions |
+| Designed async processing using Kafka and messaging systems | Increased reliability and reduced failure impact |
+| Implemented batch processing pipelines | Handled 1k+ records per request with scalable execution |
 
 ## 🚀 Tech Stack
 
@@ -40,9 +52,7 @@
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
 </p>
 
 ### Frontend
@@ -70,50 +80,19 @@
 
 ---
 
-## 📌 Featured Projects
-
-### 1. NL → SQL Benchmark API
-Backend API designed to benchmark natural language to SQL workflows with a clean and practical architecture.
-
-**Highlights**
-- FastAPI backend
-- Benchmark-oriented design
-- Clean project structure
-- Tests and linting included
-
-[🔗 Repository](https://github.com/SEU_USERNAME/SEU_REPO_1)
-
----
-
-### 2. Document Validation Service
-AI-assisted document validation service designed around asynchronous processing and business rules.
-
-**Highlights**
-- Event-driven flow
-- S3/SQS integration
-- Rule-based validation
-- Clean architecture / hexagonal approach
-
-[🔗 Repository](https://github.com/SEU_USERNAME/SEU_REPO_2)
-
----
-
-### 3. Java / Go Portfolio Project
-A hands-on project to explore modern backend design, deepen language fluency, and showcase production-style engineering decisions.
-
-[🔗 Repository](https://github.com/SEU_USERNAME/SEU_REPO_3)
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jandeilson-nascimento&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jandeilson-nascimento&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=tokyo-night&hide_border=true" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=jandeilson-nascimento&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jandeilson-nascimento&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -127,11 +106,3 @@ A hands-on project to explore modern backend design, deepen language fluency, an
 - Writing code that is simple to evolve, not just code that works today
 
 ---
-
-## 🌍 Let’s connect
-
-<p>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN">LinkedIn</a> •
-  <a href="https://github.com/SEU_USERNAME">GitHub</a> •
-  <a href="mailto:SEU_EMAIL">Email</a>
-</p>
