@@ -41,10 +41,21 @@ I’ve worked on systems involving:
 
 | What | Result |
 |------|--------|
-| Optimized vehicle search over 60M+ records | Reduced latency from ~20s → ~3s |
-| Built distributed backend services for financial workflows | Supported millions of daily transactions |
-| Designed async processing using Kafka and messaging systems | Increased reliability and reduced failure impact |
-| Implemented batch processing pipelines | Handled 1k+ records per request with scalable execution |
+| Optimized queries over 60M+ records | Reduced latency from ~20s → ~3s |
+| Built distributed financial systems | Supported millions of daily transactions |
+| Designed async processing (Kafka / MQ) | Improved reliability and fault tolerance |
+| Led backend improvements in production systems | Increased throughput and reduced failures |
+
+---
+
+## 🏗️ Experience (private work)
+
+- 10+ years building backend systems in production environments
+- Worked on financial systems and high-scale platforms
+- Designed and maintained distributed systems handling millions of transactions
+- Extensive experience with private enterprise codebases
+
+---
 
 ## 🚀 Tech Stack
 
@@ -83,8 +94,8 @@ I’ve worked on systems involving:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jandeilson-nascimento&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jandeilson-nascimento&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jandeilson-nascimento&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jandeilson-nascimento&theme=tokyonight" />
 </p>
 
 <p align="center">
