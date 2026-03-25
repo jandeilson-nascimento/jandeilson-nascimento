@@ -89,6 +89,7 @@ I’ve worked on systems involving:
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
+<!--
 ---
 
 ## 📊 GitHub Stats
@@ -101,6 +102,7 @@ I’ve worked on systems involving:
 <p align="center">
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=jandeilson-nascimento&theme=tokyo-night&hide_border=true" />
 </p>
+-->
 
 ---
 
