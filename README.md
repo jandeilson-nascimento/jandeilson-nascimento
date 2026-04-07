@@ -1,5 +1,5 @@
 <h1 align="center">Jandeilson Nascimento</h1>
-<h3 align="center">Software Engineer · Distributed Systems • Java • Go (Golang)</h3>
+<h3 align="center">Software Engineer · Distributed Systems • Java • Kotlin </h3>
 
 <p align="center">
   I build robust backend systems, APIs, integrations and production-ready software.  
